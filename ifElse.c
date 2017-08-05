@@ -1,16 +1,21 @@
-/***********************************************************
- Module Name: if...else..
- Module Date: 2017-04-20 20:33
- Module Auth:
- Description: 测试if...else...逻辑漏洞
- Others:
- Revision History:
- Date            Rel Ver.        Notes
- 2017-04-20        1.0           开始创建
-***********************************************************/
+/**
+ *
+ * @copyright:
+ * @file: ifElse.c
+ * @since: 2017-08-05
+ * @author: czq | 7160844@qq.com
+ * @description:
+ *     ifElse
+ * @usage:
+ * @others:
+ * @TODO:
+ * @Revision History:
+ * Date            Rel Ver.        Notes
+ * 2017-08-05        1.0             开始创建
+ *
+ **/
 
-
-#include <stdio.h>
+# include <stdio.h>
 
 int main(void)
 {

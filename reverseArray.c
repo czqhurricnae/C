@@ -1,14 +1,19 @@
-/***********************************************************
- Module Name: reverseArray.c
- Module Date: 2017-04-21 11:49
- Module Auth:
- Description: 将一个一元数组倒序
- Others:
- Revision History:
- Date            Rel Ver.        Notes
- 2017-04-21        1.0           创建文档
-***********************************************************/
-
+/**
+ *
+ * @copyright:
+ * @file: reverseArray.c
+ * @since: 2017-08-05
+ * @author: czq | 7160844@qq.com
+ * @description:
+ *     reverseArray
+ * @usage:
+ * @others:
+ * @TODO:
+ * @Revision History:
+ * Date            Rel Ver.        Notes
+ * 2017-08-05        1.0             开始创建
+ *
+ **/
 
 # include<stdio.h>
 

@@ -1,14 +1,19 @@
-/***********************************************************
- Module Name: palindromicNumber.c
- Module Date: 2017-04-21 11:57
- Module Auth:
- Description: 判断用户输入的数字是否是一个回文数
- Others:
- Revision History:
- Date            Rel Ver.        Notes
- 2017-04-21        1.0           创建文档
-***********************************************************/
-
+/**
+ *
+ * @copyright:
+ * @file: palindromicNumber.c
+ * @since: 2017-08-05
+ * @author: czq | 7160844@qq.com
+ * @description:
+ *     判断用户的输入是否是回文数
+ * @usage:
+ * @others:
+ * @TODO:
+ * @Revision History:
+ * Date            Rel Ver.        Notes
+ * 2017-08-05        1.0             开始创建
+ *
+ **/
 
 #include <stdio.h>
 

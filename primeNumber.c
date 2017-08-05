@@ -1,14 +1,19 @@
-/***********************************************************
- Module Name: primeNumber.c
- Module Date: 2017-04-22 20:18
- Module Auth:
- Description: 判断一个数是否为素数
- Others:
- Revision History:
- Date            Rel Ver.        Notes
- 2017-04-22        1.0           创建文档
-***********************************************************/
-
+/**
+ *
+ * @copyright:
+ * @file: primeNumber.c
+ * @since: 2017-08-05
+ * @author: czq | 7160844@qq.com
+ * @description:
+ *     primeNumber
+ * @usage:
+ * @others:
+ * @TODO:
+ * @Revision History:
+ * Date            Rel Ver.        Notes
+ * 2017-08-05        1.0             开始创建
+ *
+ **/
 
 # include<stdio.h>
 # include<stdbool.h>
